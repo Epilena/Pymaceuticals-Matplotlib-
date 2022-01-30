@@ -18,9 +18,9 @@ After analysis different drug regimens did have different affects on tumor size.
 Capomulin and Ramican had the lowest tumor mean volumes and more measurements taken among participants.  While Nafitsol and Stelasyn were similar to Placebo results having little to no effect on tumor volume.  The largest tumor volume variance was with the Ketapril demonstrating inconsistency in effects of treatment.  
 Pvalue of analysis between mouse weight and tumor volume was very low.  The pearson coffiecient was 0.84 also demonstrating a positive correlation. 
 
-![bar plot of total number of timepoints for all mice](https://user-images.githubusercontent.com/88807979/151693983-d7579b77-6191-45bd-bea3-cec8ff232bfe.png)
+![bar plot of total number of timepoints for all mice](https://user-images.githubusercontent.com/88807979/151693983-d7579b77-6191-45bd-bea3-cec8ff232bfe.png)  ![line plot of tumor volume vs time for mouse t565](https://user-images.githubusercontent.com/88807979/151694023-2a0b29d0-7989-4ae1-bebe-05c69e2d75a0.png)
 
 ![box plot of final tumor volume ](https://user-images.githubusercontent.com/88807979/151694014-fe34aba3-aacf-49c2-9b2c-0daae9f2f466.png)
 
-![line plot of tumor volume vs time for mouse t565](https://user-images.githubusercontent.com/88807979/151694023-2a0b29d0-7989-4ae1-bebe-05c69e2d75a0.png)
+
 
